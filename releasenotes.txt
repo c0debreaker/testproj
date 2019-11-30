@@ -1,2 +1,5 @@
+Nov 30, 2019 2pm
+Hey Neil, I reverted your code fix. It affected our app. It's not loading anymore.
+
 Nov 30, 2019
 Code fix was implemented
